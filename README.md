@@ -1,6 +1,6 @@
-# 👋 Olá, sou Tiago Bezerra dos Santos! 
+# 👋 Olá, meu nome é Tiago Bezerra dos Santos!
 
-👨‍🏫 **Professor e Criador de Cursos de Tecnologia**  
+👨‍🏫 **Professor e criador de cursos de Tecnologia**  
 🎮 **Desenvolvimento de Jogos 2D | 💻 Desenvolvimento Web Front-End e Back-End | 🚀 Ferramentas para Produtividade**  
 
 Gosto de transformar conhecimento em prática, criando cursos de tecnologia diretos e acessíveis sobre ferramentas essenciais para o desenvolvimento e produtividade.
