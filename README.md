@@ -21,10 +21,10 @@ Gosto de transformar conhecimento em prática, criando cursos de tecnologia dire
 - **Produtividade:** PowerPoint, Excel  
 
 ## 📬 Contato  
-🌐 **Site:** [TiagoHub](https://www.tiagohub.com)
+🌐 **Site:** [TiagoHub](https://www.tiagohub.com)  
 📧 **E-mail:** [contato@tiagohub.com](mailto:contato@tiagohub.com)  
 📷 **Instagram:** [@otiagohub](https://www.instagram.com/otiagohub)  
-📘 **Facebook:** [TiagoHub](https://www.facebook.com/TiagoHub)  
+📘 **Facebook:** [TiagoHub](https://www.facebook.com/otiagohub)
 🐙 **GitHub:** [otiagohub](https://github.com/otiagohub)  
 
 ---
