@@ -8,7 +8,7 @@ Gosto de transformar conhecimento em prática, criando cursos de tecnologia dire
 ## 📚 Meus cursos  
 🎓 Confira meus cursos lançados na **Udemy** até o momento (03/03/2025):
 
-- [PHP Descomplicado: Fundamentos Essenciais para Iniciantes - *Em breve*](#)
+- [PHP Descomplicado: Primeiros Passos para Iniciantes - *Em breve*](#)
 - [Construct 3: Criando Mundos Incríveis em Jogos de Plataforma](https://www.udemy.com/course/construct-3-criando-mundos-incriveis/?referralCode=B38E9C6A996B29ED3C1A)
 - [Excel Descomplicado: Domine o Básico](https://www.udemy.com/course/excel-descomplicado-domine-o-basico/?referralCode=93608B65EF227ADB8E77)
 - [Construct 3 Fácil e Rápido](https://www.udemy.com/course/construct-3-facil/?referralCode=5743CAB7EB33F5DE377B)
