@@ -24,6 +24,7 @@ Gosto de transformar conhecimento em prática, criando cursos de tecnologia dire
 
 ## 📬 Contato  
 🌐 **Site:** [TiagoHub](https://www.tiagohub.com)  
+📺´**Youtube:** [TiagoHub](https://youtube.com/@TiagoHub)  
 📧 **E-mail:** [contato@tiagohub.com](mailto:contato@tiagohub.com)  
 📷 **Instagram:** [@otiagohub](https://www.instagram.com/otiagohub)  
 📘 **Facebook:** [TiagoHub](https://www.facebook.com/otiagohub)  
