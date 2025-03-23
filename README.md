@@ -1,3 +1,9 @@
+<div align="center">
+
+![TiagoHub](tiagohub-header.png)
+
+</div>
+
 # 👋 Olá, meu nome é Tiago Bezerra dos Santos!
 
 👨‍🏫 **Professor e criador de cursos de Tecnologia**  
