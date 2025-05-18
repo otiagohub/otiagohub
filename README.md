@@ -12,8 +12,9 @@
 Gosto de transformar conhecimento em prática, criando cursos de tecnologia diretos e acessíveis sobre ferramentas essenciais para o desenvolvimento e produtividade.
 
 ## 📚 Meus cursos  
-🎓 Confira meus cursos lançados na **Udemy** até o momento (21/03/2025):
+🎓 Confira meus cursos lançados na **Udemy** até o momento (18/05/2025):
 
+- [Modelagem e SQL: Da Teoria à Prática em Banco de Dados](https://www.udemy.com/course/modelagem-e-sql/?referralCode=B66F6C184821BA8A7FB2)
 - [Git e GitHub Desktop do Zero (Curso GRATUITO!)](https://www.udemy.com/course/git-e-github-desktop-do-zero/?referralCode=F91593C06CB310975E57)
 - [PHP Descomplicado: Primeiros Passos para Iniciantes](https://www.udemy.com/course/php-descomplicado/?referralCode=C2C54AA86C1726DAF735)
 - [Construct 3: Criando Mundos Incríveis em Jogos de Plataforma](https://www.udemy.com/course/construct-3-criando-mundos-incriveis/?referralCode=B38E9C6A996B29ED3C1A)
