@@ -12,8 +12,9 @@
 Gosto de transformar conhecimento em prática, criando cursos de tecnologia diretos e acessíveis sobre ferramentas essenciais para o desenvolvimento e produtividade.
 
 ## 📚 Meus cursos  
-🎓 Confira meus cursos lançados na **Udemy** até o momento (18/05/2025):
+🎓 Confira meus cursos lançados na **Udemy** até o momento (27/11/2025):
 
+- [PHP e MySQL na Prática: CRUD Completo com PDO](https://www.udemy.com/course/crud-php-e-mysql/?referralCode=828D2633B548A6ACD997)
 - [Modelagem e SQL: Da Teoria à Prática em Banco de Dados](https://www.udemy.com/course/modelagem-e-sql/?referralCode=B66F6C184821BA8A7FB2)
 - [Git e GitHub Desktop do Zero (Curso GRATUITO!)](https://www.udemy.com/course/git-e-github-desktop-do-zero/?referralCode=F91593C06CB310975E57)
 - [PHP Descomplicado: Primeiros Passos para Iniciantes](https://www.udemy.com/course/php-descomplicado/?referralCode=C2C54AA86C1726DAF735)
@@ -24,7 +25,7 @@ Gosto de transformar conhecimento em prática, criando cursos de tecnologia dire
 🌎 Saiba mais em [TiagoHub.com](https://tiagohub.com)  
 
 ## 🛠️ Tecnologias e Ferramentas  
-- **Desenvolvimento Web:** PHP, HTML, CSS, JavaScript  
+- **Desenvolvimento Web:** PHP, HTML, CSS, JavaScript, MySQL 
 - **Games:** Construct 3  
 - **Controle de Versão:** Git, GitHub  
 - **Produtividade:** PowerPoint, Excel  
