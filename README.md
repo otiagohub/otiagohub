@@ -12,9 +12,9 @@
 Gosto de transformar conhecimento em prática, criando cursos de tecnologia diretos e acessíveis sobre ferramentas essenciais para o desenvolvimento e produtividade.
 
 ## 📚 Meus cursos  
-🎓 Confira meus cursos lançados na **Udemy** até o momento (janeiro/2026):
+🎓 Confira meus cursos lançados na **Udemy** até o momento (maio/2026):
 
-- ~~[JavaScript Útil: Crie Galerias, Sliders e Muito Mais]()~~ *Em atualização*
+- ~~[JavaScript, HTML e CSS: Crie Interfaces do Absoluto Zero]()~~ *Em atualização*
 - [PHP e MySQL na Prática: CRUD Completo com PDO](https://www.udemy.com/course/crud-php-e-mysql/?referralCode=828D2633B548A6ACD997)
 - [Modelagem e SQL: Da Teoria à Prática em Banco de Dados](https://www.udemy.com/course/modelagem-e-sql/?referralCode=B66F6C184821BA8A7FB2)
 - [Git e GitHub Desktop do Zero (Curso GRATUITO!)](https://www.udemy.com/course/git-e-github-desktop-do-zero/?referralCode=F91593C06CB310975E57)
